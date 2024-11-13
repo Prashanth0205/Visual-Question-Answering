@@ -162,4 +162,9 @@ cython_debug/
 #.idea/
 
 Dataset/*
+encoder_checkpoints/*
+
 vqa_finetuned_model.pth
+vqa_model_checkpoint.pth
+bert_model_checkpoint.pth
+image_encoder_checkpoint.pth
